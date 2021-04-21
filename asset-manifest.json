@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/workshop-react-20210421/static/css/main.1635e87c.chunk.css",
-    "main.js": "/workshop-react-20210421/static/js/main.1c6d6eb1.chunk.js",
-    "main.js.map": "/workshop-react-20210421/static/js/main.1c6d6eb1.chunk.js.map",
-    "runtime-main.js": "/workshop-react-20210421/static/js/runtime-main.b6697b3f.js",
-    "runtime-main.js.map": "/workshop-react-20210421/static/js/runtime-main.b6697b3f.js.map",
-    "static/js/2.d2c0a540.chunk.js": "/workshop-react-20210421/static/js/2.d2c0a540.chunk.js",
-    "static/js/2.d2c0a540.chunk.js.map": "/workshop-react-20210421/static/js/2.d2c0a540.chunk.js.map",
-    "static/js/3.8c66c24f.chunk.js": "/workshop-react-20210421/static/js/3.8c66c24f.chunk.js",
-    "static/js/3.8c66c24f.chunk.js.map": "/workshop-react-20210421/static/js/3.8c66c24f.chunk.js.map",
+    "main.css": "/workshop-react-20210421/static/css/main.1f3f2e79.chunk.css",
+    "main.js": "/workshop-react-20210421/static/js/main.24f7a71e.chunk.js",
+    "main.js.map": "/workshop-react-20210421/static/js/main.24f7a71e.chunk.js.map",
+    "runtime-main.js": "/workshop-react-20210421/static/js/runtime-main.e8a2d08a.js",
+    "runtime-main.js.map": "/workshop-react-20210421/static/js/runtime-main.e8a2d08a.js.map",
+    "static/js/2.ac5d124a.chunk.js": "/workshop-react-20210421/static/js/2.ac5d124a.chunk.js",
+    "static/js/2.ac5d124a.chunk.js.map": "/workshop-react-20210421/static/js/2.ac5d124a.chunk.js.map",
+    "static/js/3.23eb6f5d.chunk.js": "/workshop-react-20210421/static/js/3.23eb6f5d.chunk.js",
+    "static/js/3.23eb6f5d.chunk.js.map": "/workshop-react-20210421/static/js/3.23eb6f5d.chunk.js.map",
     "index.html": "/workshop-react-20210421/index.html",
-    "static/css/main.1635e87c.chunk.css.map": "/workshop-react-20210421/static/css/main.1635e87c.chunk.css.map",
-    "static/js/2.d2c0a540.chunk.js.LICENSE.txt": "/workshop-react-20210421/static/js/2.d2c0a540.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/workshop-react-20210421/static/media/logo.6ce24c58.svg"
+    "static/css/main.1f3f2e79.chunk.css.map": "/workshop-react-20210421/static/css/main.1f3f2e79.chunk.css.map",
+    "static/js/2.ac5d124a.chunk.js.LICENSE.txt": "/workshop-react-20210421/static/js/2.ac5d124a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6697b3f.js",
-    "static/js/2.d2c0a540.chunk.js",
-    "static/css/main.1635e87c.chunk.css",
-    "static/js/main.1c6d6eb1.chunk.js"
+    "static/js/runtime-main.e8a2d08a.js",
+    "static/js/2.ac5d124a.chunk.js",
+    "static/css/main.1f3f2e79.chunk.css",
+    "static/js/main.24f7a71e.chunk.js"
   ]
 }
