@@ -4,7 +4,7 @@ import TodoItem from './components/TodoItem';
 import React, { useState } from 'react';
 
 function Todo() {
-    const startTodo = [{ text: "assignment1", done: false }]
+    const startTodo = []
     const [todos, setTodos] = useState(startTodo)
 
     const addTodo = (todo) => {
