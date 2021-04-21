@@ -9,6 +9,10 @@ function Input(props) {
     
     const onAdd = () => {
         console.log("Click add", text);
+        if (text.trim() == ""){
+            alert("empty text!")
+            return;
+        }
         props.addTodo({text: text, done: false})
         setText("")
     }
